@@ -45,8 +45,8 @@ BJMatchingDeltaR 0.4
 
 Apply2017EEnoiseVeto false
 
-DiscrByDphi1 true
-Dphi1CutMet 0.7 9999.5
+DiscrByDPhiMet true
+DPhiMetCut 0.7 9999.5
 ########################################
 	        Jet2
 #######################################
@@ -80,8 +80,8 @@ BJMatchingDeltaR 0.4
 
 Apply2017EEnoiseVeto false
 
-DiscrByDphi1 true
-Dphi1CutMet 0.7 9999.5
+DiscrByDPhiMet true
+DPhiMetCut 0.7 9999.5
 ####################################
           CentralJet
 ###################################
@@ -108,8 +108,8 @@ Tau2MatchingDeltaR 0.4
 
 Apply2017EEnoiseVeto false
 
-DiscrByDphi1 true
-Dphi1CutMet 0.7 9999.5
+DiscrByDPhiMet true
+DPhiMetCut 0.7 9999.5
 ####################################
 	 FirstLeadingJet
 ###################################
@@ -139,9 +139,8 @@ Tau2MatchingDeltaR 0.4
 
 Apply2017EEnoiseVeto false
 
-DiscrByDphi1 true 
-Dphi1CutMet 0.7 9999.5
-
+DiscrByDPhiMet true
+DPhiMetCut 0.7 9999.5
 ####################################
 	 SecondLeadingJet
 ###################################
@@ -171,8 +170,8 @@ Tau2MatchingDeltaR 0.3
 
 Apply2017EEnoiseVeto false
 
-DiscrByDphi1 true
-Dphi1CutMet 0.7 9999.5
+DiscrByDPhiMet true
+DPhiMetCut 0.7 9999.5
 ###################################
     	     BJet
 ##################################
